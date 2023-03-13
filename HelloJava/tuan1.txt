@@ -24,3 +24,30 @@ https://gochocit.com/ngon-ngu-lap-trinh/truyen-tham-tri-va-tham-chieu-cho-phuong
 
 
 13/03
+// Scanner dùng để nhập thông tin
+public static Scanner scanner = new Scanner(System.in);
+
+// In có xuống dòng
+System.out.println();
+
+// Lớp Arrays có phương thức toString dùng để chuyển 1 mảng thành chuỗi
+Arrays.toString(a)
+
+// In có format
+System.out.printf("%s xin chao", "C1222I1");
+
+//Sao chép 1 mảng gốc thành 1 mảng mới theo 1 độ dài cho trước
+Arrays.copyOf(a, a.length + 1);
+
+14/03
+
+Đọc thêm và notes:
+Print format trong java
+https://niithanoi.edu.vn/printf-trong-java.html
+
+Xem trước: OOP
+https://www.youtube.com/watch?v=tcGNKqhu3GE
++ Từ khóa class, từ khóa new
++ thuộc tính, phương thức là gì
++ phương thức khởi tạo
+Làm demo luôn

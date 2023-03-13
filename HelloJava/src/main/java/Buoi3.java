@@ -13,20 +13,38 @@ public class Buoi3 {
         System.out.println(numbers[0]);
         System.out.println(numbers[numbers.length-1]);
 
-
          // Tìm giá trị lớn nhất của mảng
          int max = findMaxInArray(numbers);
          System.out.printf("Cách 1: Giá trị lớn nhất của mảng là %s \n", max);
          System.out.printf("Cách 2: Giá trị lớn nhất của mảng là %s \n", findMaxInArray(numbers));
+         int [] a = new int[5];
+         int[] b = {1, 7, 5, 1, 7};
+
+         printArray(a);
+         mergeArray2(a, b);
+         printArray(a);
          **/
 
-        int[] numbers = {1, 7, 5, 1};
-        printArray(numbers);
-//        reverseArray(numbers);
+        // BT4: Thêm phần tử vào mảng
+
+
 
 
     }
 
+
+
+    // Không áp dụng tham chiêu
+    public static void mergeArray2(int[] x, int[] y) {
+        int[] totals = new int[x.length + y.length];
+        for (int i = 0; i < x.length; i++) {
+            totals[i] = x[i];
+        }
+        for (int j = 0; j < y.length; j++) {
+            totals[x.length + j] = y[j];
+        }
+        x = totals;
+    }
     public static int[] mergeArray(int[] a, int[] b) {
 
         int[] totals = new int[a.length + b.length];

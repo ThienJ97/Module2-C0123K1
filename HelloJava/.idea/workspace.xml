@@ -39,7 +39,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Buoi3">
+  <component name="RunManager" selected="Application.Buoi4">
     <configuration name="Buoi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Buoi2" />
       <module name="HelloJava" />
@@ -61,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Buoi4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buoi4" />
+      <module name="HelloJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Buoi4" />
         <item itemvalue="Application.Buoi3" />
         <item itemvalue="Application.Buoi2Advanced" />
         <item itemvalue="Application.Buoi2" />
@@ -78,7 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678351910626</updated>
       <workItem from="1678351912301" duration="4864000" />
-      <workItem from="1678417149242" duration="7327000" />
+      <workItem from="1678417149242" duration="7931000" />
+      <workItem from="1678430707653" duration="377000" />
+      <workItem from="1678689265987" duration="7240000" />
     </task>
     <servers />
   </component>
