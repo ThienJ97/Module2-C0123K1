@@ -87,8 +87,13 @@ Làm demo luôn
 
 /---------------------------------------------------------15/03
 Đọc tìm hiểu và demo
+
++ access modifier trong Java
+https://www.youtube.com/watch?v=CnfZ20xqBLE
+
 + biến static trong java
 https://www.youtube.com/watch?v=YTYnNFCcDXA
+
 + Nested class là gì?
 + biến instance và biến local, biến static  trong java
 https://viettuts.vn/java/bien-trong-java
