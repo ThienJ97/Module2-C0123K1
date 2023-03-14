@@ -1,3 +1,5 @@
+package basic;
+
 public class Buoi3 {
     public static void main(String[] args) {
         /**
