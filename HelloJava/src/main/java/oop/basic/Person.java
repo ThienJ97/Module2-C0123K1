@@ -1,4 +1,4 @@
-package oop;
+package oop.basic;
 
 public class Person {
     //instance variable (biếncủađốitượng)

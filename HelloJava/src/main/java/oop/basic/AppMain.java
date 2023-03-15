@@ -1,4 +1,4 @@
-package oop;
+package oop.basic;
 
 public class AppMain {
     public static void main(String[] args) {
