@@ -1,4 +1,4 @@
-package oop;
+package oop.staticjava;
 
 class Student {
     // access modifier: private, default, protected, public

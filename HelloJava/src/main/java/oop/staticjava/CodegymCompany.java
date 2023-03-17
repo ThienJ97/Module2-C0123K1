@@ -1,4 +1,4 @@
-package oop;
+package oop.staticjava;
 
 public class CodegymCompany {
     private String name;

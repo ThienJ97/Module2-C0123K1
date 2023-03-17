@@ -99,3 +99,16 @@ https://www.youtube.com/watch?v=YTYnNFCcDXA
 https://viettuts.vn/java/bien-trong-java
 
 
+// Soạn và notes bài ngày 17/03
+@channel
+Về notes lại 2 bài : Cylinder và bài Point
+Về soạn và demo theo video youtube
++ Vì sao trong Java không cho đa kế thừa
++ Lớp abstract là gì, phương thức abstract là gì. Khi nào sử dụng lớp abstract
++ Các tính chất của lớp abstract
++ Interface là gì
++ Các tính chất của interface
++ Khi nào dùng abstrac khi nào dùng interface
+https://www.youtube.com/watch?v=Opjbc-q8zNQ
+https://www.youtube.com/watch?v=pOvV9IIf0TQ
+
