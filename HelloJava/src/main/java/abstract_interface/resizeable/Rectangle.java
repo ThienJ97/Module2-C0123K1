@@ -19,4 +19,9 @@ public class Rectangle extends Geometric{
         this.width = (float) (this.width*Math.sqrt(percent));
         this.height = (float) (this.height * Math.sqrt(percent));
     }
+    @Override
+    public String toString() {
+        return String.format("Rectange color: %s , filled: %s, area: %s",
+                color, filled, this.getArea());
+    }
 }

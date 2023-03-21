@@ -21,4 +21,10 @@ public class Circle extends Geometric {
     public void resize(float percent) {
         this.radius = this.radius * percent;
     }
+
+    @Override
+    public String toString() {
+        return String.format("Cirlce color: %s , filled: %s, area: %s",
+                color, filled, this.getArea());
+    }
 }
